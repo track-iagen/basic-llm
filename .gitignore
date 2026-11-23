@@ -1,0 +1,6 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace cache (optional personal view state)
+.obsidian/workspace*.json
