@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "a8e923e323a91901",
+    "type": "split",
+    "children": [
+      {
+        "id": "e714e004e4ecfe56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb67d52c334eae7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dia-3/guia_instrutor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "guia_instrutor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "672fb2f50f887d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db2e1aa1dd98192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5f83e8c103d97d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "489d7308d117e785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b11a3d852b411608",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "065041c2080f6826",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc9b8a78e7c8adba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0972b52e60c05e1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dia-3/guia_instrutor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "66907b56683405f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dia-3/guia_instrutor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "66b8f7c4e9da3276",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef9d6ec673e41c23",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7aa79dbc6fd15212",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dia-3/guia_instrutor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cb67d52c334eae7c",
+  "lastOpenFiles": [
+    "dia-2/guia_instrutor.md",
+    "dia-2/prompts/prompts_dia2.md",
+    "dia-2/exercicios/lab2_dashboard_comunicacao_artifacts.md",
+    "dia-2/exercicios/lab1_planilhas_orcamento_sheets.md",
+    "dia-3/guia_instrutor.md",
+    "ementa/ementa_detalhada.md",
+    "recursos/checklist_preparacao.md",
+    "dia-1/exercicios/lab1_rdo_transcricao.md",
+    "dia-1/exercicios/lab2_analise_edital_artifacts.md",
+    "dia-1/prompts/prompts_dia1.md",
+    "dia-1/guia_instrutor.md",
+    "dia-1/dados/trecho_memorial_descritivo.md",
+    "README.md"
+  ]
+}

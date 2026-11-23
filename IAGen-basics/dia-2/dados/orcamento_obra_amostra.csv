@@ -1,0 +1,7 @@
+Item,Codigo_SINAPI,Descricao_Servico,Unidade,Qtd_Prevista,Preco_Unit_Previsto,Qtd_Realizada,Preco_Unit_Realizado,Status
+1.1,101168,Escavação manual de vala para fundação,m3,120.00,45.50,135.00,48.00,Concluído com estouro de volume
+1.2,103672,Concreto usinado bombeável FCK 30 MPa,m3,85.00,460.00,82.00,495.00,Em andamento - Atraso de usina
+1.3,92778,Armação de pilar/viga em aço CA-50 10mm,kg,4200.00,12.80,3800.00,14.10,Em andamento - Atraso entrega
+2.1,89995,Alvenaria de vedação bloco cerâmico 9x19x19,m2,450.00,68.20,280.00,67.50,Em andamento no 4o pav
+2.2,95241,Chapisco convencional aplicado em teto/parede,m2,900.00,8.40,400.00,8.30,Em andamento
+3.1,84312,Pintura látex acrílica duas demãos,m2,750.00,24.00,0.00,0.00,Não iniciado
