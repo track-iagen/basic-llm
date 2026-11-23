@@ -4,3 +4,9 @@ Thumbs.db
 
 # Obsidian workspace cache (optional personal view state)
 .obsidian/workspace*.json
+
+# Generated documents & build artifacts
+*.pdf
+IAGen_basics_manual.html
+*.tmp
+*.log
