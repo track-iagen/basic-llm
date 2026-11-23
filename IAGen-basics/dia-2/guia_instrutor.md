@@ -32,7 +32,7 @@
 
 ### [01:55 - 03:10] Bloco 3: Sprint Prático 2 - Dashboards e Comunicação em Cascata (75 min)
 * **01:55 - 02:15:** Visualização de dados em Claude Artifacts:
-  * Criação de diagramas de fluxo de obra em Mermaid (cronogramas simplificados, fluxogramas de aprovação).
+  * Criação de diagramas vetoriais de fluxo de obra em SVG (cronogramas visuais, fluxogramas de aprovação).
   * Criação de painéis executivos em HTML/Tailwind dentro do Artifact.
 * **02:15 - 02:50:** **Laboratório 2 em Ação (Comunicação Multi-canal):**
   * A partir dos dados orçamentários e do RDO da obra:

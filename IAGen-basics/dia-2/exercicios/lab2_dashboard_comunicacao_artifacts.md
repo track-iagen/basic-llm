@@ -13,8 +13,8 @@
      - Cards de KPI: % de Conclusão Global, Saldo Orçamentário e Pontuação de Segurança.
      - Barra de progresso visual das frentes de serviço (Fundação, Estrutura, Alvenaria, Acabamento).
      - Alerta crítico em vermelho para o atraso no fornecimento de aço de 10mm.
-2. **Diagrama de Fluxo em Mermaid (Artifact):**
-   - Peça a criação de um diagrama Mermaid ilustrando o fluxo de liberação de concretagem: *Armação $\rightarrow$ Verificação pelo Fiscal $\rightarrow$ Liberação para Usina $\rightarrow$ Slump Test $\rightarrow$ Concretagem $\rightarrow$ Corpos de Prova $\rightarrow$ Cura/Desforma*.
+2. **Diagrama Vetorial de Fluxo em SVG (Artifact):**
+   - Peça a criação de um diagrama vetorial SVG completo e estilizado ilustrando o fluxo de liberação de concretagem: *Armação $\rightarrow$ Verificação pelo Fiscal $\rightarrow$ Liberação para Usina $\rightarrow$ Slump Test $\rightarrow$ Concretagem $\rightarrow$ Corpos de Prova $\rightarrow$ Cura/Desforma*.
 3. **Comunicação em Cascata:**
    - Redija:
      - Uma apresentação de 3 slides (Markdown / Google Slides) para o comitê semanal.

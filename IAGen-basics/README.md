@@ -86,7 +86,7 @@ Acompanhamento do que já está pronto e dos artefatos complementares a serem co
 ### 3. 💻 Códigos de Referência dos Claude Artifacts
 - [ ] **Código Modelo - Dashboard do Dia 2:** Arquivo HTML/Tailwind completo de referência do Dashboard Executivo da Alpha Tower para o instrutor ter como gabarito.
 - [ ] **Código Modelo - Mini-App do Dia 3:** Aplicação interativa funcional pronta (Calculadora de Concreto e Consumo de Materiais em HTML/JS/Tailwind) para demonstração ao vivo.
-- [ ] **Exemplo de Diagrama de Processo:** Arquivo com fluxograma de medição de obra renderizado em Mermaid pronto para consulta.
+- [ ] **Exemplo de Diagrama de Processo:** Arquivo com fluxograma vetorial de medição de obra renderizado em SVG puro pronto para consulta.
 
 ### 4. 🤖 Assistentes & Bases de Conhecimento
 - [x] Base de conhecimento técnica mock em Markdown (`dia-3/dados/base_conhecimento_mock_nbr.md`).

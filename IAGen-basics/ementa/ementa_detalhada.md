@@ -13,7 +13,7 @@ Ao final do curso, o participante será capaz de:
 2. **Aplicar técnicas avançadas de engenharia de prompts** estruturadas (RTCC, Few-Shot, Delimitadores e Raciocínio Passo a Passo) para eliminar alucinações e obter respostas técnicas precisas.
 3. **Automatizar a conversão de anotações e áudios de canteiro** em relatórios formais (RDOs), ofícios, e-mails de cobrança e comunicações rápidas via WhatsApp.
 4. **Integrar o Gemini ao Google Workspace** para acelerar a redação no Docs, criação de fórmulas e relatórios em Sheets e estruturação de apresentações no Slides.
-5. **Utilizar Claude Artifacts** para gerar documentação técnica visual, diagramas de processo em Mermaid e dashboards interativos.
+5. **Utilizar Claude Artifacts** para gerar documentação técnica visual, diagramas vetoriais e esquemas visuais em SVG e dashboards interativos.
 6. **Construir Assistentes Customizados Persistentes** utilizando **Gemini Gems** e **Claude Projects**, integrando bases de conhecimento (manuais de obra, normas NBRs e procedimentos padrão).
 7. **Desenvolver Mini-Aplicações Web Funcionais em Claude Artifacts** (calculadoras de obra, estimadores de consumo de materiais, visualizadores de cronograma) sem necessidade de programação tradicional.
 
@@ -43,7 +43,7 @@ Ao final do curso, o participante será capaz de:
   * Uso do Gemini em Google Sheets: fórmulas complexas, limpeza de dados de fornecedores e análise de variação orçamentária.
   * Laboratório 1: Planilha de controle de custos de obra e automação de parecer executivo.
 * **Módulo 2: Visualização de Dados e Diagramação com Claude Artifacts**
-  * Geração de diagramas de processo em Mermaid (fluxo de medição, processo de suprimentos).
+  * Geração de diagramas vetoriais de processo em SVG (fluxo de medição, processo de suprimentos, layouts de canteiro).
   * Criação de tabelas dinâmicas e dashboards visuais com SVG/HTML.
 * **Módulo 3: A Estratégia da Comunicação em Cascata**
   * Gerando múltiplos canais a partir de uma única fonte da verdade:
