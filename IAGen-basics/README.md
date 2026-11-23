@@ -63,3 +63,37 @@ Cada encontro de 4 horas segue a estratégia **Sprint de 4 Blocos**:
 3. **Intervalo (15 min):** Pausa cognitiva.
 4. **Bloco 3 (75 min):** Sprint Desafio Autônomo (Resolução de problema em pares ou individual).
 5. **Bloco 4 (50 min):** Apresentação, Validação dos Resultados e Salvamento do Ativo Operacional.
+
+---
+
+## 📋 Lista de Tarefas: Artefatos Pendentes (A Construir / A Localizar)
+
+Acompanhamento do que já está pronto e dos artefatos complementares a serem construídos ou localizados antes da primeira turma:
+
+### 1. 🎨 Slides & Apresentações
+- [ ] **Deck de Slides - Dia 1:** Introdução aos LLMs, panorama dos players (Claude, Gemini, ChatGPT), modo Thinking, segurança/LGPD e engenharia de prompts.
+- [ ] **Deck de Slides - Dia 2:** Integração com Google Workspace (Docs, Sheets, Slides), geração de dashboards em Artifacts e comunicação multi-canal.
+- [ ] **Deck de Slides - Dia 3:** Agentes persistentes (Gems vs Projects), engenharia de System Prompts e prototipagem de web apps em Artifacts.
+
+### 2. 🎙️ Mídias & Datasets Reais
+- [x] Transcrição textual do relato de canteiro (`dia-1/dados/transcricao_obra_bruta.txt`).
+- [ ] **Áudio real gravado (.mp3 / .wav):** Gravar áudio de ~2 minutos simulando o engenheiro residente no canteiro para teste de transcrição e multimodalidade direta com o Gemini.
+- [x] Trecho de memorial descritivo em Markdown (`dia-1/dados/trecho_memorial_descritivo.md`).
+- [ ] **PDF de Memorial Descritivo formatado:** Criar/localizar uma versão em PDF com carimbo técnico e formatação visual padrão de engenharia para testar extração de documentos escaneados/vetoriais.
+- [x] Planilha orçamentária modelo em CSV (`dia-2/dados/orcamento_obra_amostra.csv`).
+- [ ] **Planilha formatada (.xlsx / Google Sheets):** Modelo completo com abas de Curva ABC, cronograma físico-financeiro e formatação condicional pronta para clonagem pelos alunos.
+
+### 3. 💻 Códigos de Referência dos Claude Artifacts
+- [ ] **Código Modelo - Dashboard do Dia 2:** Arquivo HTML/Tailwind completo de referência do Dashboard Executivo da Alpha Tower para o instrutor ter como gabarito.
+- [ ] **Código Modelo - Mini-App do Dia 3:** Aplicação interativa funcional pronta (Calculadora de Concreto e Consumo de Materiais em HTML/JS/Tailwind) para demonstração ao vivo.
+- [ ] **Exemplo de Diagrama de Processo:** Arquivo com fluxograma de medição de obra renderizado em Mermaid pronto para consulta.
+
+### 4. 🤖 Assistentes & Bases de Conhecimento
+- [x] Base de conhecimento técnica mock em Markdown (`dia-3/dados/base_conhecimento_mock_nbr.md`).
+- [ ] **Pacote de PDFs de Normas Técnicas para Claude Project:** Reunir trechos essenciais da NBR 6118, NBR 14931 e NR-18 para upload na base de conhecimento do projeto prático.
+- [ ] **Instruções prontas para importação (Gems/Custom GPTs):** Exportar o `System Prompt` do Fiscal de Obra em formato padronizado com exemplos de Few-Shot.
+
+### 5. 📝 Gestão & Fechamento
+- [x] Checklist de preparação pré-curso (`recursos/checklist_preparacao.md`).
+- [ ] **Formulário de Avaliação e Feedback:** Criar template de Google Forms para envio no final do 3º dia.
+- [ ] **Modelo de Certificado:** Template de certificado de conclusão de 12 horas no Google Slides / Canva.
